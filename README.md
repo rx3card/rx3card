@@ -2,7 +2,7 @@
 
 # `>_ rx3card@gmail.com`
 
-**Programador Full Stack**
+**Hola!, Soy Programador Full Stack**
 
 He trabajo con C, Python y TypeScript — desde herramientas de sistema hasta plataformas web en producción.
 
