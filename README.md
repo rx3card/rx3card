@@ -1,7 +1,5 @@
 <div align="center">
 
-# `>_ rx3card@gmail.com`
-
 **Hola!, Soy Programador Full Stack**
 
 He trabajo con C, Python y TypeScript — desde herramientas de sistema hasta plataformas web en producción.
@@ -9,6 +7,8 @@ He trabajo con C, Python y TypeScript — desde herramientas de sistema hasta pl
 <!-- [![Portfolio](https://img.shields.io/badge/portfolio-rx3card.github.io-C6F432?style=for-the-badge&labelColor=0a0a09)](https://rx3card.github.io) -->
 [![Email](https://img.shields.io/badge/email-rx3card%40gmail.com-C6F432?style=for-the-badge&labelColor=0a0a09)](mailto:rx3card@gmail.com)
 <!-- [![Ubicación](https://img.shields.io/badge/Ibagué-Colombia-C6F432?style=for-the-badge&labelColor=0a0a09)](#) -->
+
+<!-- # `>_ rx3card@gmail.com` -->
 
 </div>
 
