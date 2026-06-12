@@ -2,7 +2,7 @@
 
 # Oscar Rojas
 
-Construyo software que intenta ser útil, rápido y sencillo de mantener.
+Creo software que intenta ser útil, rápido y sencillo de mantener.
 
 He trabajado tanto en herramientas de sistema escritas en C como en plataformas web completas desarrolladas con TypeScript. Me gusta entender cómo funcionan las cosas por dentro y convertir ideas en productos que realmente puedan utilizarse.
 
