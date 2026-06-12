@@ -30,7 +30,7 @@ No suelo desarrollar proyectos únicamente para aprender una tecnología. Prefie
 
 ## Proyecto destacado
 
-### <a target="_blank" href="https://www.ricardoserranoasesores.com/">Ricardo Serrano y Cía Ltda</a>
+### [Ricardo Serrano y Cía Ltda](https://www.ricardoserranoasesores.com/)
 
 Desarrollé una plataforma integral para una agencia de seguros en Colombia. El proyecto ha evolucionado durante más de seis meses y actualmente se encuentra en producción.
 
@@ -60,7 +60,7 @@ Incluye:
 
 ## Otros proyectos
 
-### <a target="_blank" href="https://github.com/rx3card/cfetch">cfetch</a>
+### [cfetch](https://github.com/rx3card/cfetch)
 
 Alternativa minimalista a Neofetch escrita en C.
 
@@ -68,23 +68,21 @@ Nació simplemente porque me molestaba esperar más tiempo del necesario para ob
 
 **Tecnologías:** `C` `Shell`
 
-
 ---
 
-### Test Daltonismo
+### [Test Daltonismo](https://test-daltonismo.vercel.app)
 
-Aplicación interactiva basada en las láminas de Ishihara, diseñada tanto para realizar pruebas como para comprender mejor los distintos tipos de daltonismo mediante un modo de entrenamiento; → https://test-daltonismo.vercel.app
+Aplicación interactiva basada en las láminas de Ishihara, diseñada tanto para realizar pruebas como para comprender mejor los distintos tipos de daltonismo mediante un modo de entrenamiento.
 
 **Tecnologías:** `JavaScript`
 
 ---
 
-### encrypted-text-editor
+### [encrypted-text-editor](https://github.com/rx3card/encrypted-text-editor)
 
-Editor de escritorio enfocado en la privacidad, incorporando cifrado local y mecanismos de protección frente a intentos reiterados de acceso no autorizado; → https://github.com/rx3card/encrypted-text-editor
+Editor de escritorio enfocado en la privacidad, incorporando cifrado local y mecanismos de protección frente a intentos reiterados de acceso no autorizado.
 
 **Tecnologías:** `Python`
-
 
 ---
 
@@ -113,4 +111,5 @@ Si crees que puedo aportar a tu proyecto o simplemente quieres conversar sobre t
 **[rx3card@gmail.com](mailto:rx3card@gmail.com)**
 
 </div>
+
 
