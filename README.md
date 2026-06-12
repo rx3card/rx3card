@@ -30,7 +30,7 @@ No suelo desarrollar proyectos únicamente para aprender una tecnología. Prefie
 
 ## Proyecto destacado
 
-### <a href="https://www.ricardoserranoasesores.com/">Ricardo Serrano y Cía Ltda</a>
+### <a target="_blank" href="https://www.ricardoserranoasesores.com/">Ricardo Serrano y Cía Ltda</a>
 
 Desarrollé una plataforma integral para una agencia de seguros en Colombia. El proyecto ha evolucionado durante más de seis meses y actualmente se encuentra en producción.
 
@@ -60,7 +60,7 @@ Incluye:
 
 ## Otros proyectos
 
-### <a href="https://github.com/rx3card/cfetch">cfetch</a>
+### <a target="_blank" href="https://github.com/rx3card/cfetch">cfetch</a>
 
 Alternativa minimalista a Neofetch escrita en C.
 
