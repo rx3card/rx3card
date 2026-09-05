@@ -1,15 +1,25 @@
-<!-- <div align="center"> -->
+<p align="center">
 
-### Hey there! 👋
+  <img src="./assets/terminal.svg" width="100%" alt="terminal session">
 
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rx3card&theme=github" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rx3card&theme=github" />
+<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rx3card&theme=github" />
+  <a href="https://rx3card.vercel.app">portfolio</a> ·
+  <a href="https://linkedin.com/in/rx3card">linkedin</a> ·
+  <a href="mailto:rx3card@gmail.com">email</a>
 
-<br>
+</p>
 
-<a href="mailto:rx3card@gmail.com">rx3card@gmail.com</a>
+### Philosophy
 
-</div> -->
+> There is only one good, knowledge.
+> There is only one evil, ignorance. <br>
+> — Socrates.
+
+<p align="center">
+
+  <img src="./assets/activity.svg" width="100%" alt="contribution activity">
+
+</p>
