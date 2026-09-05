@@ -16,4 +16,4 @@
 
 > There is only one good, knowledge.
 > There is only one evil, ignorance. <br>
-> — Socrates.
+> — Sócrates.
