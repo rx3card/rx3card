@@ -29,14 +29,6 @@ LINES = [
     ("hl",   "philosophy        mathematics"),
     ("gap",  ""),
 
-    ("cmd",  "systemctl status"),
-    ("ok",   "production systems     active (running)"),
-    ("ok",   "curiosity              active (running)"),
-    ("ok",   "side projects          active (running)"),
-    ("ok",   "learning               active (running)"),
-    ("warn", "free time              active (low power)"),
-    ("gap",  ""),
-
     ("cmd",  ""),   # trailing prompt + cursor
 ]
 
