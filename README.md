@@ -17,9 +17,3 @@
 > There is only one good, knowledge.
 > There is only one evil, ignorance. <br>
 > — Socrates.
-
-<p align="center">
-
-  <img src="./assets/activity.svg" width="100%" alt="contribution activity">
-
-</p>
