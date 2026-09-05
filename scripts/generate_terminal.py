@@ -19,9 +19,8 @@ LINES = [
     ("dim",  "Full-Stack Developer · Ibagué, Tolima, Colombia"),
     ("gap",  ""),
 
-    ("cmd",  "cat now.txt"),
-    ("out",  "Sole developer of an insurance platform in production since Feb 2026:"),
-    ("out",  "public site, internal CRM, WhatsApp bot, and the Linux box under it."),
+    ("cmd",  "cat about.txt"),
+    ("out",  "My goal is always to build complete systems that solve real problems."),
     ("gap",  ""),
 
     ("cmd",  "ls interests/"),
@@ -30,7 +29,7 @@ LINES = [
     ("hl",   "philosophy        mathematics"),
     ("gap",  ""),
 
-    ("cmd",  "systemctl status oscar"),
+    ("cmd",  "systemctl status rx3card"),
     ("ok",   "● active (open to work) · remote, hybrid or on-site"),
     ("gap",  ""),
 
