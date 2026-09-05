@@ -24,8 +24,9 @@ LINES = [
     ("gap",  ""),
 
     ("cmd",  "ls interests/"),
-    ("hl",   "systems-design    infrastructure"),
-    ("hl",   "automation        databases"),
+    ("hl",   "infrastructure    automatation      databases"),
+    ("hl",   "computer science  machine-learning  physics"),
+    ("hl",   "philosophy        mathematics"),
     ("gap",  ""),
 
     ("cmd",  "systemctl status"),
