@@ -16,17 +16,22 @@ USER, HOST = "rx3card", "dev"
 LINES = [
     ("cmd",  "whoami"),
     ("out",  "Oscar Rojas"),
-    ("dim",  "Full-Stack Developer \u00b7 Ibagu\u00e9, Colombia"),
+    ("dim",  "Full-Stack Developer · Ibagué, Tolima, Colombia"),
     ("gap",  ""),
 
-    ("cmd",  "cat about.txt"),
-    ("out",  "My goal is always to build complete systems that solve real problems."),
+    ("cmd",  "cat now.txt"),
+    ("out",  "Sole developer of an insurance platform in production since Feb 2026:"),
+    ("out",  "public site, internal CRM, WhatsApp bot, and the Linux box under it."),
     ("gap",  ""),
 
     ("cmd",  "ls interests/"),
-    ("hl",   "infrastructure    automatation      databases"),
+    ("hl",   "infrastructure    automation        databases"),
     ("hl",   "computer science  machine-learning  physics"),
     ("hl",   "philosophy        mathematics"),
+    ("gap",  ""),
+
+    ("cmd",  "systemctl status oscar"),
+    ("ok",   "● active (open to work) · remote, hybrid or on-site"),
     ("gap",  ""),
 
     ("cmd",  ""),   # trailing prompt + cursor
