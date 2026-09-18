@@ -14,8 +14,6 @@
   <sub>Ibagué, Tolima, Colombia · Remote, hybrid or on-site · Open to work</sub>
 </p>
 
----
-
 ### Tech stack
 
 <p>
@@ -46,8 +44,3 @@
   <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel"></a>
 </p>
 
----
-
-> There is only one good, knowledge. <br>
-> There is only one evil, ignorance. <br>
-> — Socrates
