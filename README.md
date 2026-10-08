@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://rx3card.vercel.app/en/">Portfolio</a> ·
+  <!-- <a href="https://rx3card.vercel.app/en/">Portfolio</a> ·
   <a href="https://rx3card.vercel.app/cv/CV-Oscar-Rojas-EN.pdf">CV (EN)</a> ·
-  <a href="https://rx3card.vercel.app/cv/CV-Oscar-Rojas.pdf">CV (ES)</a> ·
+  <a href="https://rx3card.vercel.app/cv/CV-Oscar-Rojas.pdf">CV (ES)</a> · -->
   <a href="https://www.linkedin.com/in/rx3card/">LinkedIn</a> ·
   <a href="mailto:rx3card@gmail.com">rx3card@gmail.com</a>
 </p>
