@@ -16,7 +16,7 @@ USER, HOST = "rx3card", "dev"
 LINES = [
     ("cmd",  "whoami"),
     ("out",  "Oscar Rojas"),
-    ("dim",  "Full-Stack Developer · Ibagué, Tolima, Colombia"),
+    ("dim",  "Full-Stack Developer"),
     ("gap",  ""),
 
     ("cmd",  "cat about.txt"),
