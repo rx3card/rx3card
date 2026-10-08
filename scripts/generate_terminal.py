@@ -30,7 +30,7 @@ LINES = [
     ("gap",  ""),
 
     ("cmd",  "systemctl status rx3card"),
-    ("ok",   "● active (open to work) · remote, hybrid or on-site"),
+    ("ok",   "active (open to work) · remote, hybrid or on-site"),
     ("gap",  ""),
 
     ("cmd",  ""),   # trailing prompt + cursor
