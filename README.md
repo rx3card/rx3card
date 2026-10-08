@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Oscar Rojas — Full-Stack Developer, Ibagué, Colombia">
+  <img src="./assets/terminal.svg" width="100%" alt="Oscar Rojas — Full-Stack Developer, Colombia">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <sub>Ibagué, Tolima, Colombia · Remote, hybrid or on-site · Open to work</sub>
+  <sub>Colombia · Remote, hybrid or on-site · Open to work</sub>
 </p>
 
 ### Tech stack
