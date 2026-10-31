@@ -1,0 +1,47 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: '23 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Test
+        run: python3 -m unittest discover -s tests
+
+      - name: Collect
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/collect.py
+
+      - name: Render
+        run: python3 scripts/render.py
+
+      - name: Check what will be published
+        run: python3 -m unittest tests.test_published
+
+      - name: Commit if something changed
+        run: |
+          git add README.md data/stats.json assets/art
+          if git diff --cached --quiet; then
+            echo "Nothing to publish."
+            exit 0
+          fi
+          git config user.name "rx3card-receiver"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Log reception"
+          git push
