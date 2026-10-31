@@ -1,19 +1,3 @@
-<!-- <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Oscar Rojas — Full-Stack Developer, Colombia">
-</p>
-
-<p align="center">
-  <!-- <a href="https://rx3card.vercel.app/en/">Portfolio</a> ·
-  <a href="https://rx3card.vercel.app/cv/CV-Oscar-Rojas-EN.pdf">CV (EN)</a> ·
-  <a href="https://rx3card.vercel.app/cv/CV-Oscar-Rojas.pdf">CV (ES)</a> · -->
-  <a href="https://www.linkedin.com/in/rx3card/">LinkedIn</a> ·
-  <a href="mailto:rx3card@gmail.com">rx3card@gmail.com</a>
-</p>
-
-<p align="center">
-  <sub>Colombia · Remote, hybrid or on-site · Open to work</sub>
-</p> -->
-
 ### Tech stack
 <p>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"></a>
