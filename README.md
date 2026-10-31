@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/terminal.svg" width="100%" alt="Oscar Rojas — Full-Stack Developer, Colombia">
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <sub>Colombia · Remote, hybrid or on-site · Open to work</sub>
-</p>
+</p> -->
 
 ### Tech stack
 <p>
