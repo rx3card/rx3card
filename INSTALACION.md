@@ -1,6 +1,6 @@
 # Instalación y publicación
 
-Hasta que sigas estos pasos, nada cambia en GitHub. No hice push ni modifiqué tu cuenta.
+Ya está publicado. Esta guía queda para repetir o renovar la instalación.
 
 ## 1. Revisa la vista previa
 
@@ -19,7 +19,7 @@ El `GITHUB_TOKEN` estándar no ve tus repositorios privados, así que necesitas 
 5. **Repository permissions → Metadata: Read-only.** Es el mínimo y GitHub lo marca solo.
 6. No concedas ningún otro permiso. En especial, nada de escritura.
 
-No pude probar un token de grano fino desde aquí. Si la primera ejecución falla con el ámbito privado vacío, añade **Contents: Read-only**.
+Este permiso bastó en la ejecución real: `Metadata: Read-only` entrega los lenguajes de los repositorios privados.
 
 ## 3. Guarda el token como secreto
 

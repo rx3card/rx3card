@@ -1,6 +1,6 @@
 # Validación
 
-Estado al 31 de octubre de 2026. Solo figura aquí lo que se ejecutó de verdad. Nada se ha publicado: no hubo push ni cambios en la cuenta.
+Estado al 31 de octubre de 2026. Solo figura aquí lo que se ejecutó de verdad. Publicado en `main` con tu autorización. El avatar, la bio y el estado son decisión tuya y ningún proceso los modifica.
 
 ## Resultado
 
@@ -114,10 +114,17 @@ Excepciones justificadas en `DESIGN.md`. La paleta repartida, "Candy chapters", 
 - La ruta fue guiada por código: no hay herramienta de imágenes en esta sesión.
 - `finish-reviewer` no se ejecutó, y la crítica no se repitió sobre la versión final.
 
+## Verificado en producción
+
+- El workflow corrió en Actions con éxito, con tu token real y solo `Metadata: Read-only`: 14 lenguajes en privado, y publicó su propio commit.
+- En github.com cargan las 13 imágenes.
+- A 1280 px la columna mide 831 px y usa el arte ancho. A 1024 px mide 575 px y usa el estrecho, lo que confirma el corte de 1100 px.
+- El barrido del calendario y la lámpara se mueven dentro de la página real, comprobado en un navegador basado en Chromium.
+- La cifra pública del calendario, leída por Actions, es 1.297.
+
 ## Sin verificar
 
-- **Nada se ha visto en github.com.** El HTML viene de su API, pero las animaciones se probaron en Brave. Safari y la app móvil de GitHub no se probaron.
-- **El corte de 1100 px** se dedujo del diseño de GitHub, no de una medición sobre tu perfil.
-- **Token de grano fino.** Las pruebas reales usaron tu sesión de `gh`. El permiso `Metadata: Read-only` no se probó.
-- **Workflow real.** Sus pasos corrieron en local y su YAML se analizó sin errores, pero nunca corrió en Actions.
+- Safari, Firefox, un teléfono físico y la app móvil de GitHub.
+- La ejecución programada diaria: de momento solo corrió la manual.
+- El tema claro en github.com; se revisó en local.
 - **Avatar y estado.** Son propuestas; no se aplicó nada.
