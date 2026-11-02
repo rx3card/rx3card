@@ -1,63 +1,63 @@
 {
  "schema": 1,
- "generated_at": "2026-11-01T11:55Z",
+ "generated_at": "2026-11-02T13:40Z",
  "complete": true,
  "languages": {
   "global": [
    {
     "rank": 1,
     "name": "TypeScript",
-    "pct": 30.9
+    "pct": 33.9
    },
    {
     "rank": 2,
     "name": "QML",
-    "pct": 17.4
+    "pct": 16.4
    },
    {
     "rank": 3,
     "name": "JavaScript",
-    "pct": 10.2
+    "pct": 9.9
    },
    {
     "rank": 4,
     "name": "Shell",
-    "pct": 6.9
+    "pct": 6.6
    },
    {
     "rank": 5,
     "name": "HTML",
-    "pct": 6.3
+    "pct": 6.0
    },
    {
     "rank": 6,
     "name": "Python",
-    "pct": 5.3
+    "pct": 5.0
    },
    {
     "rank": 7,
     "name": "C",
-    "pct": 5.3
+    "pct": 5.0
    },
    {
     "rank": 8,
     "name": "CSS",
-    "pct": 4.6
+    "pct": 4.8
    },
    {
     "rank": 9,
     "name": "C++",
-    "pct": 4.5
+    "pct": 4.3
    },
    {
     "rank": 10,
     "name": "Svelte",
-    "pct": 3.7
+    "pct": 3.5
    },
    {
     "rank": 11,
     "name": "Astro",
-    "pct": 3.1
+    "pct": 3.0
    },
    {
     "rank": 12,
@@ -98,58 +98,58 @@
   "public": [
    {
     "rank": 1,
-    "name": "HTML",
-    "pct": 26.6
+    "name": "TypeScript",
+    "pct": 37.4
    },
    {
     "rank": 2,
-    "name": "JavaScript",
-    "pct": 23.4
+    "name": "HTML",
+    "pct": 17.0
    },
    {
     "rank": 3,
-    "name": "Python",
-    "pct": 19.1
+    "name": "JavaScript",
+    "pct": 16.6
    },
    {
     "rank": 4,
-    "name": "TypeScript",
-    "pct": 8.7
+    "name": "Python",
+    "pct": 12.1
    },
    {
     "rank": 5,
     "name": "C",
-    "pct": 8.4
+    "pct": 5.3
    },
    {
     "rank": 6,
-    "name": "Papyrus",
-    "pct": 7.2
+    "name": "CSS",
+    "pct": 5.2
    },
    {
     "rank": 7,
-    "name": "CSS",
-    "pct": 3.7
+    "name": "Papyrus",
+    "pct": 4.5
    },
    {
     "rank": 8,
     "name": "PowerShell",
-    "pct": 1.5
+    "pct": 1.0
    },
    {
     "rank": 9,
     "name": "Shell",
-    "pct": 0.9
+    "pct": 0.6
    },
    {
     "rank": 10,
     "name": "Inno Setup",
-    "pct": 0.3
+    "pct": 0.2
    },
    {
     "rank": 11,
     "name": "Batchfile",
-    "pct": 0.2
+    "pct": 0.1
    },
    {
     "rank": 12,
@@ -244,7 +244,7 @@
   "lines": 6
  },
  "calendar": {
-  "total": 1299,
+  "total": 1311,
   "days": [
    [
     "2025-11-02",
@@ -1700,10 +1700,14 @@
    ],
    [
     "2026-10-31",
-    18
+    21
    ],
    [
     "2026-11-01",
+    9
+   ],
+   [
+    "2026-11-02",
     0
    ]
   ]
