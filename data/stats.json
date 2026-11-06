@@ -1,73 +1,73 @@
 {
  "schema": 1,
- "generated_at": "2026-11-04T13:07Z",
+ "generated_at": "2026-11-06T13:04Z",
  "complete": true,
  "languages": {
   "global": [
    {
     "rank": 1,
     "name": "TypeScript",
-    "pct": 33.9
+    "pct": 20.9
    },
    {
     "rank": 2,
     "name": "QML",
-    "pct": 16.4
+    "pct": 20.0
    },
    {
     "rank": 3,
     "name": "JavaScript",
-    "pct": 9.9
+    "pct": 10.8
    },
    {
     "rank": 4,
     "name": "Shell",
-    "pct": 6.6
+    "pct": 8.0
    },
    {
     "rank": 5,
     "name": "HTML",
-    "pct": 6.0
+    "pct": 7.3
    },
    {
     "rank": 6,
     "name": "Python",
-    "pct": 5.0
+    "pct": 6.1
    },
    {
     "rank": 7,
     "name": "C",
-    "pct": 5.0
+    "pct": 6.1
    },
    {
     "rank": 8,
     "name": "CSS",
-    "pct": 4.8
+    "pct": 5.7
    },
    {
     "rank": 9,
     "name": "C++",
-    "pct": 4.3
+    "pct": 5.2
    },
    {
     "rank": 10,
     "name": "Svelte",
-    "pct": 3.5
+    "pct": 4.2
    },
    {
     "rank": 11,
     "name": "Astro",
-    "pct": 3.0
+    "pct": 3.6
    },
    {
     "rank": 12,
     "name": "Lua",
-    "pct": 0.8
+    "pct": 0.9
    },
    {
     "rank": 13,
     "name": "Papyrus",
-    "pct": 0.7
+    "pct": 0.8
    },
    {
     "rank": 14,
@@ -160,73 +160,73 @@
   "private": [
    {
     "rank": 1,
-    "name": "TypeScript",
-    "pct": 33.3
+    "name": "QML",
+    "pct": 24.4
    },
    {
     "rank": 2,
-    "name": "QML",
-    "pct": 19.3
+    "name": "TypeScript",
+    "pct": 17.3
    },
    {
     "rank": 3,
     "name": "JavaScript",
-    "pct": 8.8
+    "pct": 9.6
    },
    {
     "rank": 4,
     "name": "Shell",
-    "pct": 7.6
+    "pct": 9.6
    },
    {
     "rank": 5,
     "name": "C++",
-    "pct": 5.0
+    "pct": 6.3
    },
    {
     "rank": 6,
     "name": "C",
-    "pct": 4.9
+    "pct": 6.2
    },
    {
     "rank": 7,
     "name": "CSS",
-    "pct": 4.7
+    "pct": 5.8
    },
    {
     "rank": 8,
     "name": "HTML",
-    "pct": 4.1
+    "pct": 5.2
    },
    {
     "rank": 9,
     "name": "Svelte",
-    "pct": 4.1
+    "pct": 5.1
    },
    {
     "rank": 10,
     "name": "Python",
-    "pct": 3.8
+    "pct": 4.8
    },
    {
     "rank": 11,
     "name": "Astro",
-    "pct": 3.5
+    "pct": 4.4
    },
    {
     "rank": 12,
     "name": "Lua",
-    "pct": 0.9
+    "pct": 1.1
    },
    {
     "rank": 13,
     "name": "GLSL",
-    "pct": 0.1
+    "pct": 0.2
    },
    {
     "rank": 14,
     "name": "PowerShell",
-    "pct": 0.0
+    "pct": 0.1
    }
   ],
   "contributions": [
@@ -244,7 +244,7 @@
   "lines": 6
  },
  "calendar": {
-  "total": 1315,
+  "total": 1316,
   "days": [
    [
     "2025-11-02",
@@ -1664,7 +1664,7 @@
    ],
    [
     "2026-10-22",
-    1
+    0
    ],
    [
     "2026-10-23",
@@ -1716,6 +1716,14 @@
    ],
    [
     "2026-11-04",
+    0
+   ],
+   [
+    "2026-11-05",
+    2
+   ],
+   [
+    "2026-11-06",
     0
    ]
   ]
