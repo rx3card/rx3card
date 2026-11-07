@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-06T13:04Z",
+ "generated_at": "2026-11-07T11:49Z",
  "complete": true,
  "languages": {
   "global": [
    {
     "rank": 1,
     "name": "TypeScript",
-    "pct": 20.9
+    "pct": 20.7
    },
    {
     "rank": 2,
@@ -27,17 +27,17 @@
    {
     "rank": 5,
     "name": "HTML",
-    "pct": 7.3
+    "pct": 7.2
    },
    {
     "rank": 6,
-    "name": "Python",
-    "pct": 6.1
+    "name": "C",
+    "pct": 6.3
    },
    {
     "rank": 7,
-    "name": "C",
-    "pct": 6.1
+    "name": "Python",
+    "pct": 6.3
    },
    {
     "rank": 8,
@@ -47,7 +47,7 @@
    {
     "rank": 9,
     "name": "C++",
-    "pct": 5.2
+    "pct": 5.1
    },
    {
     "rank": 10,
@@ -62,7 +62,7 @@
    {
     "rank": 12,
     "name": "Lua",
-    "pct": 0.9
+    "pct": 1.0
    },
    {
     "rank": 13,
@@ -161,32 +161,32 @@
    {
     "rank": 1,
     "name": "QML",
-    "pct": 24.4
+    "pct": 24.3
    },
    {
     "rank": 2,
     "name": "TypeScript",
-    "pct": 17.3
+    "pct": 17.1
    },
    {
     "rank": 3,
-    "name": "JavaScript",
-    "pct": 9.6
-   },
-   {
-    "rank": 4,
     "name": "Shell",
     "pct": 9.6
    },
    {
+    "rank": 4,
+    "name": "JavaScript",
+    "pct": 9.5
+   },
+   {
     "rank": 5,
-    "name": "C++",
-    "pct": 6.3
+    "name": "C",
+    "pct": 6.5
    },
    {
     "rank": 6,
-    "name": "C",
-    "pct": 6.2
+    "name": "C++",
+    "pct": 6.3
    },
    {
     "rank": 7,
@@ -196,7 +196,7 @@
    {
     "rank": 8,
     "name": "HTML",
-    "pct": 5.2
+    "pct": 5.1
    },
    {
     "rank": 9,
@@ -206,17 +206,17 @@
    {
     "rank": 10,
     "name": "Python",
-    "pct": 4.8
+    "pct": 5.0
    },
    {
     "rank": 11,
     "name": "Astro",
-    "pct": 4.4
+    "pct": 4.3
    },
    {
     "rank": 12,
     "name": "Lua",
-    "pct": 1.1
+    "pct": 1.2
    },
    {
     "rank": 13,
@@ -244,7 +244,7 @@
   "lines": 6
  },
  "calendar": {
-  "total": 1316,
+  "total": 1323,
   "days": [
    [
     "2025-11-02",
@@ -1724,6 +1724,10 @@
    ],
    [
     "2026-11-06",
+    7
+   ],
+   [
+    "2026-11-07",
     0
    ]
   ]
